@@ -1,4 +1,4 @@
-# 💬📍 RealTime Hub — Chat & Location Sharing System
+  # 💬📍 RealTime Hub — Chat & Location Sharing System
 
 ### Real-time Chat and Live Location Sharing Web App
 
@@ -37,19 +37,12 @@
 ---
 
 ## 📸 Screenshots
-
-## 📸 Screenshots
-
 **Home Page**
-
-![Home Page](<img width="2862" height="1622" alt="mainpage" src="https://github.com/user-attachments/assets/73120766-1d7f-4b08-af44-8146c011f554" />)
-
+![Home Page](mainpage.png)
 **Chat Interface**
-![Chat Interface](<img width="2878" height="1630" alt="chatbox" src="https://github.com/user-attachments/assets/a4e7fbb5-faa4-44fd-ade6-45fc1e2658ac" />)
-
+![Chat Interface](chatbox.png)
 **Location Map**
-![Map View](<img width="2876" height="1632" alt="location" src="https://github.com/user-attachments/assets/8935150b-41bf-4048-8d3b-540e9656fed8" />
-)
+![Map View](location.png)
 
 
 ---
